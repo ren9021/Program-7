@@ -6,16 +6,8 @@
 #
 #  File Name:         Program7.py
 #
-#  Course:            COSC 1336 Programming Fundamentals I 
+#  Description:       This program calculates faculty pay raises at a company by reading contents of a file
 #
-#  Due Date:          10-20-19
-#
-#  Instructor:        Fred Kumi 
-#
-#  Chapter:           Chapter #s 4 and 6
-#
-#  Description:
-#     This program calculates faculty pay raises at a company by reading contents of a file.
 #********************************************************************
 def main():
     developerInfo()
@@ -67,7 +59,6 @@ def main():
     
 def developerInfo():
     print('Name:     Renee White')
-    print('Course:   Programming Fundamentals I')
     print('Program:  7')
     print()
       
